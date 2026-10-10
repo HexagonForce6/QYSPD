@@ -20,3 +20,7 @@
     - Python 3.10
     - CUDA 11.8
     - vllm 0.6.3
+
+# Supp
+
+Due to a LaTeX formatting issue, the final column (Anthology) of Table S1 was not visible in the published PDF. We provide the missing column separately in `data/Anthology.csv`. This formatting issue does not affect the experimental results reported in the paper.
